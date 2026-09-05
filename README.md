@@ -77,3 +77,34 @@ The system:
                     ▼                     ▼
               Final Answer       Self-Correction /
                                   Safe Response
+
+                                ---
+
+## 📸 Screenshots
+
+### 🏠 Main Dashboard
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### 🤖 RAG Answer Generation
+
+![RAG Answer Generation](screenshots/rag-answer.png)
+
+### 📊 RAG Evaluation
+
+![RAG Evaluation](screenshots/evaluation.png)
+
+### 📈 Performance Analytics
+
+![Performance Analytics](screenshots/performance.png)
+
+---
+
+## 🚀 Future Improvements
+
+- Support for more document formats
+- Advanced hybrid retrieval
+- Improved reranking models
+- Better evaluation metrics
+- Cloud deployment
+- Multi-user authentication
